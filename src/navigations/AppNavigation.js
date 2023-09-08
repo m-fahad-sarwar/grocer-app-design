@@ -22,6 +22,7 @@ function MainNavigator() {
           textAlign: 'center',
           alignSelf: 'center',
           flex: 1,
+          marginTop: 10,
         },
       }}>
       <Stack.Screen name="Home" component={HomeScreen} />

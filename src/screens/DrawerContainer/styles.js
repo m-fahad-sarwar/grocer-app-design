@@ -4,8 +4,8 @@ const styles = StyleSheet.create({
   content: {
     flex: 1,
     flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'center'
+    paddingTop: 20
+
   },
   container: {
     flex: 1,
